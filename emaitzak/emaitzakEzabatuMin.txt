@@ -1,0 +1,29 @@
+EZABATUMIN PROBAK:
+Zuhaitza:  * 
+Zuhaitzaren elementu minimoa 2147483647 zen, eta EZABATU DA:
+Zuhaitza:  * 
+
+Zuhaitza: [ 8 ] 
+Zuhaitzaren elementu minimoa 8 zen, eta EZABATU DA:
+Zuhaitza:  * 
+
+Zuhaitza: [ 53 [ 30 [ 14 * [ 23 ] ] [ 30 ] ] [ 72 [ 61 [ 58 ] [ 65 ] ] [ 84 ] ] ] 
+Zuhaitzaren elementu minimoa 14 zen, eta EZABATU DA:
+Zuhaitza: [ 53 [ 30 [ 23 ] [ 30 ] ] [ 72 [ 61 [ 58 ] [ 65 ] ] [ 84 ] ] ] 
+
+Zuhaitza: [ 16 [ 12 [ 10 ] [ 14 [ 13 ] [ 15 ] ] ] [ 18 [ 17 ] [ 22 ] ] ] 
+Zuhaitzaren elementu minimoa 10 zen, eta EZABATU DA:
+Zuhaitza: [ 16 [ 12 * [ 14 [ 13 ] [ 15 ] ] ] [ 18 [ 17 ] [ 22 ] ] ] 
+
+Zuhaitza: [ 16 [ 6 [ 4 [ 2 ] * ] * ] [ 20 [ 18 [ 17 ] [ 19 ] ] [ 21 ] ] ] 
+Zuhaitzaren elementu minimoa 2 zen, eta EZABATU DA:
+Zuhaitza: [ 16 [ 6 [ 4 ] * ] [ 20 [ 18 [ 17 ] [ 19 ] ] [ 21 ] ] ] 
+
+Zuhaitza: [ 16 [ 6 [ 4 ] * ] [ 20 [ 18 [ 17 ] [ 19 ] ] [ 21 ] ] ] 
+Zuhaitzaren elementu minimoa 4 zen, eta EZABATU DA:
+Zuhaitza: [ 16 [ 6 ] [ 20 [ 18 [ 17 ] [ 19 ] ] [ 21 ] ] ] 
+
+Zuhaitza: [ 16 [ 8 [ 4 [ 2 ] [ 6 ] ] [ 12 [ 9 ] [ 14 [ 13 ] [ 15 ] ] ] ] * ] 
+Zuhaitzaren elementu minimoa 2 zen, eta EZABATU DA:
+Zuhaitza: [ 16 [ 8 [ 4 * [ 6 ] ] [ 12 [ 9 ] [ 14 [ 13 ] [ 15 ] ] ] ] * ] 
+

@@ -1,0 +1,21 @@
+ZUHAITZ OREKATUEN PROBAK:
+Zuhaitza:  * 
+Zuhaitz hori BAI da orekatua
+
+Zuhaitza: [ 8 ] 
+Zuhaitz hori BAI da orekatua
+
+Zuhaitza: [ 53 [ 30 [ 14 * [ 23 ] ] [ 30 ] ] [ 72 [ 61 [ 58 ] [ 65 ] ] [ 84 ] ] ] 
+Zuhaitz hori BAI da orekatua
+
+Zuhaitza: [ 16 [ 12 [ 10 ] [ 14 [ 13 ] [ 15 ] ] ] [ 18 [ 17 ] [ 22 ] ] ] 
+Zuhaitz hori BAI da orekatua
+
+Zuhaitza: [ 16 [ 6 [ 4 [ 2 ] * ] * ] [ 20 [ 18 [ 17 ] [ 19 ] ] [ 21 ] ] ] 
+Zuhaitz hori EZ da orekatua
+
+Zuhaitza: [ 16 [ 6 [ 4 ] * ] [ 20 [ 18 [ 17 ] [ 19 ] ] [ 21 ] ] ] 
+Zuhaitz hori BAI da orekatua
+
+Zuhaitza: [ 16 [ 8 [ 4 [ 2 ] [ 6 ] ] [ 12 [ 9 ] [ 14 [ 13 ] [ 15 ] ] ] ] * ] 
+Zuhaitz hori EZ da orekatua
